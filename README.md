@@ -5,6 +5,6 @@ https://journals.sagepub.com/doi/10.1177/0363546519833925#body-ref-bibr2-0363546
 https://www.tandfonline.com/doi/full/10.1080/14763141.2015.1052749
 https://journals.sagepub.com/doi/10.1177/03635465211069562
 Research questions: 
-Does turf create moer injuries in football than grass?
+Does turf create more injuries in football than grass?
 Are more severe injuries(8 days or more missed) more likely to happen than less severe injuries on artificial grass?
 How common are ACL and PCL tears compared to other injuries when playing on turf?
