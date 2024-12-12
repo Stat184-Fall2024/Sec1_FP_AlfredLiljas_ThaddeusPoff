@@ -1,0 +1,15 @@
+Injury Outcome,Synthetic,Natural,Total
+Games,555,725,1280
+Plays,93019,120916,213935
+Lower Extremity,,,
+Any Time Loss,2268,2533,4801
+>=8 days,886,1041,1927
+"Knee, Ankle, Foot",,,
+Any Time Loss,1492,1645,3137
+>=8 days,601,661,1262
+Knee,,,
+Any Time Loss,742,808,1550
+>=8 days,297,331,628
+"Ankle,Foot",,,
+Any Time Loss,750,837,1587
+>=8 days,304,330,634

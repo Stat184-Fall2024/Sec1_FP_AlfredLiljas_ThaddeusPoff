@@ -1,0 +1,26 @@
+,Natural Grass,Artificial Turf
+ACL Tear,,
+Contact: Person,56,54
+Contact: surface,4,6
+No apparent contact,35,38
+Other,5,2
+PCL Tear,,
+Contact: person,55,50
+Contact: surface,25,36
+No apparent contact,18,13
+Other,2,1
+MCL Tear,,
+Contact: person,87,87
+Contact: surface,3,3
+No apparent contact,8,8
+Other,2,2
+Medial Meniscal Tear,,
+Contact: person,44,50
+Contact: surface,7,3
+No apparent contact,42,35
+Other,7,12
+Lateral Meniscal Tear,,
+Contact: person,50,46
+Contact: surface,8,10
+No apparent contact,32,34
+Other,10,10
