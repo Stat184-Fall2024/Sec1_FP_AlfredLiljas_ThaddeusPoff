@@ -4,6 +4,7 @@
 https://journals.sagepub.com/doi/10.1177/0363546519833925#body-ref-bibr2-0363546519833925
 https://www.tandfonline.com/doi/full/10.1080/14763141.2015.1052749
 https://journals.sagepub.com/doi/10.1177/03635465211069562
+https://journals.sagepub.com/doi/pdf/10.1177/0363546519833925?casa_token=Jv7pzPFHQ0QAAAAA:i7AbYVF2gkKJCurlRgtasM9TbvWoFfueU2ea_ckOojxw3AFAhZoeXVeRw03oWLWnArTOd4H9i2ERDw
 Research questions: 
 Does turf create more injuries in football than grass?
 Are more severe injuries(8 days or more missed) more likely to happen than less severe injuries on artificial grass?
