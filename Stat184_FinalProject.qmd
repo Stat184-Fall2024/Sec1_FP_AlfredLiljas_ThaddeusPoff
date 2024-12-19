@@ -99,14 +99,6 @@ ggplot(acl_data, aes(x = Injury_Type, y = Count, fill = Surface)) +
 
 ```
 
-ggplot(acl_data, aes(x = Injury.Type, y = Count, fill = Surface)) + geom_bar(stat = "identity", position = "dodge") + labs(x = "Contact Type", y = "Number of ACL Tears", title = "ACL Tear Comparison by Contact Type") + theme_minimal() + theme(plot.margin = margin(5,5,5,5))
-
-#box and whisker plot
-
-```{r}
-boxplot(acl_data$Count)
-```
-
 # summary table for injury type
 
 ```{r}
